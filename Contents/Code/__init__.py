@@ -11,11 +11,9 @@ YOUTUBE_VIDEO_PAGE = 'http://www.youtube.com/watch?v=%s'
 YOUTUBE_VIDEO_FORMATS = ['Standard', 'Medium', 'High', '720p', '1080p']
 YOUTUBE_FMT = [34, 18, 35, 22, 37]
 
-NAME          = L('Title')
-
-# make sure to replace artwork with what you want
-ART           = 'art-default.jpg'
-ICON          = 'icon-default.png'
+NAME = L('Title')
+ART = 'art-default.jpg'
+ICON = 'icon-default.png'
 
 ####################################################################################################
 
